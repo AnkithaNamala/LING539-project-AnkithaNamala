@@ -12,6 +12,6 @@ In this project,  I will create an accessible tutorial for Skip-gram model for c
 While there are many articles that explain how Skip-Gram model works using English or monolingual datasets, this project explains code-switched Telugu-English data. It bridges gap between standard NLP models and real-world multilingual scenarios. It is preprocessed with mixed-language and trained on word2vec model to capture meaningful embeddings for both Telugu and English words. This project will be a beginner-friendly for people working on South Asian NLP or multilingual environments.
 
 <br></br>
-<img src = "https://github.com/user-attachments/assets/96191f73-3b6c-4e6b-af97-8327495f380a" width = "20"/> [GitHub Repository](https://github.com/AnkithaNamala/LING539-project-AnkithaNamala)
+<img src = "https://github.com/user-attachments/assets/4fc782f7-360a-4add-8fe4-41ad0c4b623c" width = "20"/> [Live Website](https://ankithanamala.github.io/LING539-project-AnkithaNamala/)
 
 <img src = "https://github.com/user-attachments/assets/d67d267e-a10d-4a78-bb11-8d3ab3617cd2" width = "20"/> [Reference Article](https://leshem-ido.medium.com/skip-gram-word2vec-algorithm-explained-85cd67a45ffa)
