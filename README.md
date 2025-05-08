@@ -22,11 +22,11 @@ As a native Telugu speaking individual, I chose this mixed language because:
     - comments.txt: data scraped from Youtube
     - cleaned_comments.txt: comments data after cleaning for emojis, punctuations, url, mentions, hashtags, etc.
 - images folder: PNG icons used in the tutorial are saved here.
-- model: the trained telugu-english-skipgram is saved in this folder for future use.
-- scripts:
+- model folder: the trained telugu-english-skipgram is saved in this folder for future use.
+- scripts folder:
     - SkipGram Model.ipynb: entire script for SkipGram Model implementation
     - Youtube Scraping.ipynb: entire script for scraping comments from YouTube videos
-- tutorial: contains the tutorial Jupyter Notebook file.
+- tutorial folder: contains the tutorial Jupyter Notebook file.
 - PROPOSAL.md: proposal of the project.
 - dockerfile: inputs to create a docker image.
 - requirements.txt: requirements of packages/ libraries to execute the scripts.
