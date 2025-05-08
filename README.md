@@ -28,6 +28,7 @@ As a native Telugu speaking individual, I chose this mixed language because:
     - Youtube Scraping.ipynb: entire script for scraping comments from YouTube videos
 - tutorial: contains the tutorial Jupyter Notebook file.
 - PROPOSAL.md: proposal of the project.
+- dockerfile: inputs to create a docker image.
 - requirements.txt: requirements of packages/ libraries to execute the scripts.
 
 ## <img src = "https://github.com/user-attachments/assets/7bebde30-ea8d-445a-94fc-cf9269d9abbe" width = "25"/> Libraries To be Used
