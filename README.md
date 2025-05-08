@@ -23,7 +23,7 @@ As a native Telugu speaking individual, I chose this mixed language because:
 - Training Skip-Gram word2vec
 - Interpreting Model
 <br></br>
-## <img src = "https://github.com/user-attachments/assets/7bebde30-ea8d-445a-94fc-cf9269d9abbe" width = "25"/> Libraries Used
+## <img src = "https://github.com/user-attachments/assets/7bebde30-ea8d-445a-94fc-cf9269d9abbe" width = "25"/> Libraries To be Used
 
 - [nltk](https://pypi.org/project/nltk/), [re](https://docs.python.org/3/library/re.html) for text cleaning
 - [genism](https://pypi.org/project/gensim/) for word2vec
