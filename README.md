@@ -43,10 +43,21 @@ As a native Telugu speaking individual, I chose this mixed language because:
   
 ## <img src = "https://github.com/user-attachments/assets/b83fb00e-b3a7-4b42-ad4f-4f6a1f09a608" width = "25"/> Execution of Project
 
+Prerequisites:
+
+- docker
+- A modern web browser like Chrome or Firefox
+
 To execute the project, execute the following command from the project root (i.e., the directory containing this README file) and select which files you want to work on.
 
 ```
+docker build -t telugu_english_skipgram .
+```
+Once, this is succesfully executed, run the following command:
+```
 docker run -it -p 7777:9999 -v "$PWD:/app/" telugu_english_skipgram
 ```
+
+From within your Linux VM, open your browser to localhost:7777 to navigate through Project files.
 
 
